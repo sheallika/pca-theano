@@ -1,3 +1,7 @@
+------------
+PCA on Faces
+Theano code for performing PCA on images, and visualizing reconstructions using different number of principal components. 
+
 --------
 pca-half
 
